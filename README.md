@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandro Ordonez
+- 👋 Hi, I’m Alejandro
 - 👀 I’m interested and studying statistics and quantitative modeling!
 - 🌱 I’m currently creating projects using python, SQL, R
 - 📫 How to reach me: ordonezalejandro1790@gmail.com
